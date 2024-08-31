@@ -6,6 +6,7 @@
 }
 body {
   position: relative;
+  background: var(#{--body-background-default});
 }
 .container {
   max-width: 1200px;
